@@ -4,3 +4,4 @@ Belajar MSIB5
 -Belajar UIUX
 Belajar PHP
 Belajar laravel
+Belajar Softskil
